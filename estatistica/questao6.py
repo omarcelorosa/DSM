@@ -14,7 +14,8 @@ eC=int(input("Quantas cervejas a pessoa E comprou? ")) # pessoa E
 eE=int(input("Quantos espetos a pessoa E comprou? ")) 
 eR=int(input("Quantos refrigerantes a pessoa E comprou? "))
 
-#cerveja6,50 espeto 8 e refrigerante 4,50
+#valores
+#cerveja=6,50 espeto=8 e refrigerante=4,50
 
 aT= (aC * 6.5) + (aE * 8) + (aR * 4.5) # pessoa A total
 bT= (bC * 6.5) + (bE * 8) + (bR * 4.5) # pessoa B 

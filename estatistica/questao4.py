@@ -14,3 +14,5 @@ resA21= (a21 * b11) + (a22 * b21)
 resA22= (a21 * b12) + (a22 * b22)
 
 print(f"A matriz resultante é:\n{resA11} {resA12}\n{resA21} {resA22}")
+
+#resA11 = resultado da multiplicação da linha 1 da matriz A pela coluna 1 da matriz B, equivalente ao elemento a11 da matriz resultante
